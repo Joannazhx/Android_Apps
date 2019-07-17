@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ec6f534e7bd24fd16c3501f9c432c74a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/joanna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/068eda961c8ed7d89231254d9ce547fc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d715074adf6286f051748b98081c9ef5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/171860b1ba12f06a7659d97abeb9f15c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b465308f3e1e7f913bed4937b977a59b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fc9ad49623ae478eba012344c5020a99/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1125e07dadf846edcf1476a3db254ada/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/843d76a0621474b8adf61e2b208b6e06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6fa14bbfc04fa82799fad4db5995399b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8a17445d916aaeb36006449d22f454c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a59c8a2554cb7012fd0c13b0c3db721d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f67e9f53c6fc3e74eb6a62e6173a10e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/681d7f0ce60baf687b5ca9c4b58ef2f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e720944aad4606dd29a0047e6c8f9ad1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aab71bcba737260d0171342ca79a9c55/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ee6dd6581cba9fab96b1e15734348c6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ae03e96dbaa975f343d18ced9588a2/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4dbda259bd936941171dd9258fb37df8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a1334f74e97d3c874527372ae5cbf4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/48bddc4aae068077350a9aabfa5da0bb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8cb08d74ed8eb4adef76f60fc028add5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f817fce77fbf75e1cd7e099e887a15b8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0f021e3589bb9013755b4c4f1e4fef78/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/65afe1e238e1bd9b414ffcbdf6080414/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/22910e90567fba2f4501393913f3cbf1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a34eac2784c8f05fe4c30b9f1cc5e0c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eca3e46a940d1f23feee1a6d2ebde237/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:10:22-78
+application
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:12:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/joanna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/068eda961c8ed7d89231254d9ce547fc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/joanna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/068eda961c8ed7d89231254d9ce547fc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ee6dd6581cba9fab96b1e15734348c6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ee6dd6581cba9fab96b1e15734348c6/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ae03e96dbaa975f343d18ced9588a2/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ae03e96dbaa975f343d18ced9588a2/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ee6dd6581cba9fab96b1e15734348c6/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.example.jeremy.lab8.MainActivity
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.example.jeremy.lab8.Task1Activity
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:26:19-48
+activity#com.example.jeremy.lab8.Task2Activity
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:27:9-51
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:27:19-48
+activity#com.example.jeremy.lab8.Task3Activity
+ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml:28:19-48
+uses-sdk
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ec6f534e7bd24fd16c3501f9c432c74a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/ec6f534e7bd24fd16c3501f9c432c74a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/joanna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/068eda961c8ed7d89231254d9ce547fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/joanna/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/068eda961c8ed7d89231254d9ce547fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d715074adf6286f051748b98081c9ef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/d715074adf6286f051748b98081c9ef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/171860b1ba12f06a7659d97abeb9f15c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/171860b1ba12f06a7659d97abeb9f15c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b465308f3e1e7f913bed4937b977a59b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b465308f3e1e7f913bed4937b977a59b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fc9ad49623ae478eba012344c5020a99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/fc9ad49623ae478eba012344c5020a99/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1125e07dadf846edcf1476a3db254ada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/1125e07dadf846edcf1476a3db254ada/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/843d76a0621474b8adf61e2b208b6e06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/843d76a0621474b8adf61e2b208b6e06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6fa14bbfc04fa82799fad4db5995399b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/6fa14bbfc04fa82799fad4db5995399b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8a17445d916aaeb36006449d22f454c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/8a17445d916aaeb36006449d22f454c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a59c8a2554cb7012fd0c13b0c3db721d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/a59c8a2554cb7012fd0c13b0c3db721d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f67e9f53c6fc3e74eb6a62e6173a10e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3f67e9f53c6fc3e74eb6a62e6173a10e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/681d7f0ce60baf687b5ca9c4b58ef2f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/681d7f0ce60baf687b5ca9c4b58ef2f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e720944aad4606dd29a0047e6c8f9ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/e720944aad4606dd29a0047e6c8f9ad1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aab71bcba737260d0171342ca79a9c55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/aab71bcba737260d0171342ca79a9c55/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ee6dd6581cba9fab96b1e15734348c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4ee6dd6581cba9fab96b1e15734348c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ae03e96dbaa975f343d18ced9588a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/11ae03e96dbaa975f343d18ced9588a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4dbda259bd936941171dd9258fb37df8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/4dbda259bd936941171dd9258fb37df8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a1334f74e97d3c874527372ae5cbf4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8a1334f74e97d3c874527372ae5cbf4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/48bddc4aae068077350a9aabfa5da0bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/48bddc4aae068077350a9aabfa5da0bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8cb08d74ed8eb4adef76f60fc028add5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/8cb08d74ed8eb4adef76f60fc028add5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f817fce77fbf75e1cd7e099e887a15b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f817fce77fbf75e1cd7e099e887a15b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0f021e3589bb9013755b4c4f1e4fef78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/0f021e3589bb9013755b4c4f1e4fef78/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/65afe1e238e1bd9b414ffcbdf6080414/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/65afe1e238e1bd9b414ffcbdf6080414/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/22910e90567fba2f4501393913f3cbf1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/22910e90567fba2f4501393913f3cbf1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a34eac2784c8f05fe4c30b9f1cc5e0c7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/joanna/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a34eac2784c8f05fe4c30b9f1cc5e0c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eca3e46a940d1f23feee1a6d2ebde237/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/joanna/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/eca3e46a940d1f23feee1a6d2ebde237/AndroidManifest.xml:20:5-44
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+		ADDED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/joanna/Desktop/2018s2/comp9336/lab/lab8/app/src/main/AndroidManifest.xml
